@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\Anakim\source\repos\krash\krash\dllmain.cpp(25,1): warning C4190: для "isExist" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xstring(4448): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  krash.vcxproj -> C:\Users\Anakim\source\repos\krash\krashexe\Debug\krash.dll
